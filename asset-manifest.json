@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/four-in-a-line/static/css/main.c32942fa.css",
+    "main.js": "/four-in-a-line/static/js/main.7374d37c.js",
+    "index.html": "/four-in-a-line/index.html",
+    "main.c32942fa.css.map": "/four-in-a-line/static/css/main.c32942fa.css.map",
+    "main.7374d37c.js.map": "/four-in-a-line/static/js/main.7374d37c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32942fa.css",
+    "static/js/main.7374d37c.js"
+  ]
+}
